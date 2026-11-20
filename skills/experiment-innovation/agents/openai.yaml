@@ -1,0 +1,4 @@
+interface:
+  display_name: "跨学科实验创新发现"
+  short_description: "从看似无关的学科发现可迁移机制，明确对应与失配，生成创新假设和验证方案"
+  default_prompt: "请使用 $experiment-innovation，从远距离甚至看似无关的学科为我的实验寻找创新点，说明机制映射、失配条件和最小验证方案。"
